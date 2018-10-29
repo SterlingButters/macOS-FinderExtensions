@@ -7,3 +7,5 @@
 - Open terminal here
 - Get permissions (hmmm)
 - start server
+- compare diff
+- git {push - pull}
