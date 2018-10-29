@@ -3,7 +3,7 @@
 ## About
 The purpose of this project is to create a repository of resources for creating
 Finder extensions for unexisting functionality. Common examples or integrations
-of this include the initiation of a Terminal in the current directory, toggling
+of this include the invocation of a Terminal in the current directory, toggling
 hidden files, connecting to remote servers, etc. The beauty of the implementation
 discussed below is that there are actually very few limitations. The question you
 might be currently asking is why not just get 3rd party application like Forklift
@@ -24,7 +24,8 @@ using the native macOS Automator application to create workflows that we insert
 directly into the tool menu. This repo will provide some sample `.app`(s) that
 can be opened and edited with Automator to gain insight into a normal workflow
 for an Application.
-![alt text]()
+![alt text](https://github.com/SterlingButters/macOS-FinderExtensions/blob/master/Figures/View.png)
+![alt text](https://github.com/SterlingButters/macOS-FinderExtensions/blob/master/Figures/CustomizeToolbar.png)
 
 2) For some, styling may not matter, in fact, you may find that you like the
 colorful look of the other icons such as those that normally represent everyday
@@ -40,12 +41,11 @@ as many extra layers as you'd like and export the image as a `.png`. Once, the
 a `.icns` file (macOS's default icon filetype). Once, that's done, you can simply
 `Get Info` from the context menu by right-clicking the application and click and
 drag the `.icns` file to the picture in the `Get Info` window as seen in the figure.
-![alt text]()
+![alt text](https://github.com/SterlingButters/macOS-FinderExtensions/blob/master/Figures/GetInfo.png)
 
 3) Finally, you can store all of your little workflows in a distant directory or
 hide it with `chflags hidden <.app(s) directory>` and command+click-and-drag any
 number of them to the the toolbar menu in Finder.
-![alt text]()
 
 ### Some ideas (some featured):
 - chflags hidden
