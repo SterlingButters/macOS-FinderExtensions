@@ -24,6 +24,7 @@ using the native macOS Automator application to create workflows that we insert
 directly into the tool menu. This repo will provide some sample `.app`(s) that
 can be opened and edited with Automator to gain insight into a normal workflow
 for an Application.
+
 ![alt text](https://github.com/SterlingButters/macOS-FinderExtensions/blob/master/Figures/View.png)
 ![alt text](https://github.com/SterlingButters/macOS-FinderExtensions/blob/master/Figures/CustomizeToolbar.png)
 
