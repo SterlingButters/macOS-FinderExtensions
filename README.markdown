@@ -51,7 +51,7 @@ number of them to the the toolbar menu in Finder.
 ### Some ideas (some featured):
 - chflags hidden
 - hide files
-- anything in /usr/local/bin
+- anything in /usr/local/bin or aliases
 - MCNP, Serpent, OpenMC, Moose(make directory)
 - Jupyter
 - Open terminal here
