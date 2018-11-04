@@ -59,3 +59,4 @@ number of them to the the toolbar menu in Finder.
 - start server
 - compare diff
 - git {push - pull}
+- mounting drives
