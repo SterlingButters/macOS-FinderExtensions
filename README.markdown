@@ -60,3 +60,6 @@ number of them to the the toolbar menu in Finder.
 - compare diff
 - git {push - pull}
 - mounting drives
+
+### Resources
+- [Mac Scripting](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/DisplayProgress.html#//apple_ref/doc/uid/TP40016239-CH37-SW1)
